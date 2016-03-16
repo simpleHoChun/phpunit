@@ -22,8 +22,8 @@ class Car
      * @param int $doors
      * @return void
      */
-    public function setDoors($doors)
+    /*public function setDoors($doors)
     {
         $this->doors = $doors;
-    }
+    }*/
 }
