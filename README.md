@@ -1,6 +1,6 @@
 # 使用 Travis CI 自動測試
 
-[![Build Status](https://travis-ci.org/simpleHoChun/phpunit.git?branch=master)](https://travis-ci.org/simpleHoChun/phpunit)
+[![Build Status](https://travis-ci.org/simpleHoChun/phpunit.svg?branch=master)](https://travis-ci.org/simpleHoChun/phpunit)
 
 **使用 Travis CI 自動測試**
 
